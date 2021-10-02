@@ -1,34 +1,18 @@
 
-
+body {
 
 .luokka {
 
     border: dotted; width: 2px;
     width: 100px; height: 100px;
 
-}
-
-<div class='luokka'>
-    <h1>Tässä on tekstiä divissä</h1>
-    <p>Tämä on divin paragraafi</p>
-
-}
-
-
-body {
-
     background-color: black;
-
-}
-
 
 h1 {
 
     color: white;
     margin-right: 30px;
     font-size: 20px;
-
-    </h1>
 
 }
 
@@ -41,4 +25,5 @@ p {
 
 ul {list-style-type: square;
 
+}
 }
